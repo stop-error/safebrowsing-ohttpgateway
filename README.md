@@ -1,6 +1,6 @@
 # Privacy Gateway Application Server
 
-This project contains a gateway implementation for an [Oblivious HTTP](https://datatracker.ietf.org/doc/html/draft-ietf-ohai-ohttp-02) (OHTTP) gateway in Go. 
+This project contains a gateway implementation for an [Oblivious HTTP](https://datatracker.ietf.org/doc/html/draft-ietf-ohai-ohttp-02) (OHTTP) gateway in Go. This code is provided for demonstration purposes
 
 # Overview
 
